@@ -1,0 +1,7 @@
+m,m,owner,m,m,False
+k,1,customer,k,03184121151,False,i just loved ur services.
+b,1,customer,b,032732036,False,U are an awsome professionalist.
+l,1,customer,l,03060020007,False,We loved ur services.
+h,k,customer,Kausar,03420043746,False,
+kausar,1,customer,k,030043746,False,
+maryam,m,Customer,Maryam,03184121151,False,

@@ -1,0 +1,42 @@
+D:\GUI Mangement System\SignUp\SignUp\bin\Debug\SignUp.exe.config
+D:\GUI Mangement System\SignUp\SignUp\bin\Debug\SignUp.exe
+D:\GUI Mangement System\SignUp\SignUp\bin\Debug\SignUp.pdb
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.csproj.AssemblyReference.cache
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.Form1.resources
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.Properties.Resources.resources
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.csproj.GenerateResource.cache
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.csproj.CoreCompileInputs.cache
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.exe
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.pdb
+D:\GUI Mangement System\SignUp\SignUp\obj\Debug\SignUp.Form2.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\bin\Debug\SignUp.exe.config
+D:\GUI Mangement System\SignUp - Copy\SignUp\bin\Debug\SignUp.exe
+D:\GUI Mangement System\SignUp - Copy\SignUp\bin\Debug\SignUp.pdb
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.csproj.AssemblyReference.cache
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.Form2.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.Properties.Resources.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.csproj.GenerateResource.cache
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.csproj.CoreCompileInputs.cache
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.exe
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.pdb
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.SignUp.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.OwnerMenu.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.ViewServices.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.DeleteService.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.AddService.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.Search.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.EditService.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.ViewAppointment.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.SeeCustomers.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.SeeReviews.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.CustomerMenu.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.TakeAppointment.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.AllServices.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.OwnAppointment.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.SalonInfo.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.ViewInformation.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.AddReview.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.Account.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.PersonalInfo.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.ChangePassword.resources
+D:\GUI Mangement System\SignUp - Copy\SignUp\obj\Debug\SignUp.csproj.SuggestedBindingRedirects.cache
